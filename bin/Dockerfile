@@ -1,3 +1,3 @@
 # Source image to build from
 # Use free version to simplify initial install
-FROM icr.io/ibm-messaging/mq:v9.54
+FROM icr.io/ibm-messaging/mq:latest
