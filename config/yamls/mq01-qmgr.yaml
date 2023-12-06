@@ -55,7 +55,7 @@ spec:
     availability:
       type: SingleInstance
     storage:
-      defaultClass: default
+      defaultClass: 
       queueManager:
         type: persistent-claim
       persistedData:
